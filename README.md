@@ -1,2 +1,1 @@
-# my-first-project
-İlk Proje Dosyam
+My-first-project
